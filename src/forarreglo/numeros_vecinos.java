@@ -72,9 +72,9 @@ public class numeros_vecinos extends javax.swing.JFrame {
 
         jLabel4.setText("jLabel1");
 
-        jLabel6.setText("3");
+        jLabel6.setText("13");
 
-        jLabel7.setText("4");
+        jLabel7.setText("24");
 
         jLabel8.setText("jLabel1");
 
